@@ -1,0 +1,4 @@
+Hello, I'm Brendan Duke. This is an assignment I wrote for Computer Science
+2S03: Principles of Programming in Fall 2014. The purpose of the assignment
+was to implement different varieties of data structures (linked lists, stacks
+and queues) and to test those implementations comprehensively using JUnit.
